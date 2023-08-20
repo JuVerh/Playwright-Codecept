@@ -1,0 +1,18 @@
+{
+  "name": "playwright_codecept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run",
+    "gpo": "codeceptjs gpo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.5.3",
+    "playwright": "^1.37.1",
+    "prettier": "^3.0.2"
+  }
+}
